@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoanmln&label=Profile%20views&color=0e75b6&style=flat" alt="yoanmln" /> </p>
 <h1 align="center">Hello there ! moi c'est Yoan</h1>
 <h3 align="center">
-🎓 Je suis actuellement en formation de Concepteur Développeur d'Applications au Campus du Numérique in the Alps d'Annecy.<br>
+🎓 Je suis actuellement en formation de Concepteur Développeur d'Applications au Campus Numérique in the Alps d'Annecy.<br>
 🦾 Après une reconversion depuis l'industrie et l'horlogerie, je me passionne pour le développement web, avec une préférence pour le front-end, tout en explorant le back-end.
 </h3>
 
