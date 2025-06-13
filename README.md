@@ -23,7 +23,7 @@
 
 <h3 align="left">📡 Connect with me ! :</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/yoan-moulin/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
