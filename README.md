@@ -10,7 +10,7 @@
 
 ## 🔭 En ce moment…
 
-- 🌱 J'apprend **Java, PHP, LARAVEL, SQL**
+- 🌱 J'apprend **VueJS**
 - 💻 Je développe des projets web (front & bientôt back)
 - 👨‍💻 Tous mes projets sont disponibles ici 👉 [https://yoanmoulin.dev](https://yoanmoulin.dev)
 
@@ -31,7 +31,7 @@
 <h3 align="left">🛠️ Outils et langages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,php,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,sass,bootstrap" />
   </a>
 </p>
 
