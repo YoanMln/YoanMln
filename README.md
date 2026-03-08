@@ -29,7 +29,7 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vuejs,vite,js,html,css,sass,bootstrap,vscode,webstorm,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=laravel,vuejs,vite,pinia,js,html,css,sass,bootstrap,vscode,webstorm,phpstorm" />
     
   </a>
 </p>
